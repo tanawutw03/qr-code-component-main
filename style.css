@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Inside your custom CSS file */
+* {
+  font-family: "Outfit", sans-serif;
+}
